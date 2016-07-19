@@ -66,7 +66,7 @@ liquid_pdflatex:
   debug: false
   density: 300
   resize: 300x300
-  usepackages: tikz,circuitikz[european resistors, american inductors]
+  usepackages: tikz
   output_directory: /_latex
   latex_cmd: "pdflatex -interaction=nonstopmode -output-directory $output-directory $texfile > /dev/null 2>&1"
   pdfcrop_cmd: "pdfcrop $pdffile $pdffile > /dev/null 2>&1"
