@@ -36,3 +36,20 @@ their utility, and the way they work.
 Fasten your seatbelt, let's go back in time! (yes, neural network is an old idea!).
 
 ## Back in the 40's
+
+In 1943, two scientists, neurophysiologist Warren McCulloch and mathematician
+studied the way biological neurons might work. They simplified the process by
+modelizing biological networks with electrical circuits. They've published their
+work in a paper, [*A logical calculus of the ideas immanent in nervous activity*](http://vordenker.de/ggphilosophy/mcculloch_a-logical-calculus.pdf),
+and by the way created the first ever logical, electrical artificial neuron. This
+model of neuron, called as MCP neuron, is still in use nowadays, and I'll talk
+about it again later.
+
+A few years later in 1949, another scientist, Donald Hebb, a psychologist, wrote
+an other paper, [*The organization of behavior*](http://deeplearning.cs.cmu.edu/pdfs/Hebb.1949.pdf),
+in which he assumes the fact that pathways between neurons are getting stronger
+every time they're used. That would comes to explain how human can learn.
+
+Years later, as computers were getting more and more powerful, Bernard Widrow a
+professor in electrical engineering and his then doctoral student Ted Hoff
+invented an algorithm known as "Widdrow-Hoff LMS" (Least Mean Squares)
